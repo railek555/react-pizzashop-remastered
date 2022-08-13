@@ -1,0 +1,12 @@
+@import '../variables';
+
+.footer {
+  /* border-style: solid; */
+  border-top: 1px solid #f6f6f6;
+  border-color: rgb(199, 199, 199);
+  height: 70px;
+  p {
+    text-align: center;
+    margin-top: 20px;
+  }
+}
